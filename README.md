@@ -272,7 +272,7 @@ RiskScore = ChurnProbability × MonetaryValue
 
 
 
-\## 🏗 Project Structure
+\##  Project Structure
 Retail\_Churn\_Prediction/
 
 │
@@ -337,7 +337,7 @@ This structure follows modular ML engineering best practices:
 
 
 
-\## 🧩 Skills Demonstrated
+\##  Skills Demonstrated
 
 
 
@@ -404,5 +404,6 @@ It demonstrates both \*\*technical depth and strategic thinking\*\*.
 MBA (Marketing) | Data Science (IIT Madras)  
 
 Transitioning into Data Analytics \& Machine Learning
+
 
 
