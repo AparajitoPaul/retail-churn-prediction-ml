@@ -1,6 +1,6 @@
 # Raw Data
 
-## 📦 External Data Hosting
+##  External Data Hosting
 
 The raw dataset is hosted externally due to GitHub file size limitations.
 
@@ -14,7 +14,7 @@ data → raw/
 
 ---
 
-## 📁 Expected File
+##  Expected File
 
 data/
 └── raw/
@@ -24,7 +24,7 @@ File Size: ~92 MB
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 The raw dataset contains ~1 million transaction-level retail records across ~6,000 customers between 2009–2011.
 
@@ -39,8 +39,9 @@ Key fields include:
 
 ---
 
-## ⚠️ Important
+##  Important
 
 - Do not modify the raw dataset.
 - Preprocessing is performed in `02_data_cleaning.ipynb`.
+
 - This dataset serves as the foundation for time-based churn modeling.
