@@ -122,6 +122,7 @@ This demonstrates the importance of aligning predictive analytics with financial
 
 ## Project Structure
 
+```
 Retail_Churn_Prediction/
 │
 ├── data/
@@ -151,6 +152,7 @@ Retail_Churn_Prediction/
 │
 ├── requirements.txt
 └── README.md
+```
 
 The structure follows modular machine learning engineering practices, separating raw data, processed data, feature engineering, modeling, and evaluation.
 
@@ -205,3 +207,4 @@ Then run notebooks sequentially.
 Aparajito Paul  
 MBA (Marketing) | Data Science (IIT Madras)  
 Transitioning into Data Analytics and Machine Learning
+
