@@ -1,4 +1,4 @@
-\# 📉 Retail Customer Churn Prediction  
+\#  Retail Customer Churn Prediction  
 
 \### Time-Based ML Modeling with Revenue Optimization
 
@@ -8,7 +8,7 @@
 
 
 
-\## 🚀 Project Summary
+\##  Project Summary
 
 
 
@@ -42,7 +42,7 @@ Key highlights:
 
 
 
-\## 🎯 Business Problem
+\##  Business Problem
 
 
 
@@ -66,7 +66,7 @@ More importantly:
 
 
 
-\## ⏳ Time-Based Churn Definition
+\##  Time-Based Churn Definition
 
 
 
@@ -88,11 +88,11 @@ This approach mirrors real-world deployment and prevents target leakage.
 
 
 
-\## 🧠 Modeling Procedure
+\##  Modeling Procedure
 
 
 
-\### 1️⃣ Raw Data Audit
+\### 1. Raw Data Audit
 
 \- Validated schema
 
@@ -102,7 +102,7 @@ This approach mirrors real-world deployment and prevents target leakage.
 
 
 
-\### 2️⃣ Data Cleaning
+\### 2️. Data Cleaning
 
 \- Removed cancelled invoices
 
@@ -114,7 +114,7 @@ This approach mirrors real-world deployment and prevents target leakage.
 
 
 
-\### 3️⃣ Time-Based Churn Labeling
+\### 3️. Time-Based Churn Labeling
 
 \- Historical window → Feature engineering
 
@@ -122,7 +122,7 @@ This approach mirrors real-world deployment and prevents target leakage.
 
 
 
-\### 4️⃣ Feature Engineering
+\### 4️. Feature Engineering
 
 
 
@@ -150,7 +150,7 @@ This approach mirrors real-world deployment and prevents target leakage.
 
 
 
-\### 5️⃣ Model Training
+\### 5️. Model Training
 
 Compared:
 
@@ -162,7 +162,7 @@ Compared:
 
 
 
-\### 6️⃣ Model Evaluation
+\### 6️. Model Evaluation
 
 Metrics used:
 
@@ -176,7 +176,7 @@ Metrics used:
 
 
 
-\### 7️⃣ Explainability
+\### 7️. Explainability
 
 \- SHAP global importance
 
@@ -186,7 +186,7 @@ Metrics used:
 
 
 
-\### 8️⃣ Revenue-at-Risk Simulation
+\### 8️. Revenue-at-Risk Simulation
 
 Converted churn probabilities into financial impact and optimized retention strategy.
 
@@ -196,7 +196,7 @@ Converted churn probabilities into financial impact and optimized retention stra
 
 
 
-\## 📊 Model Performance
+\##  Model Performance
 
 
 
@@ -220,35 +220,35 @@ Logistic Regression slightly outperformed tree-based models under leakage-free v
 
 
 
-\## 🔍 Key Findings
+\##  Key Findings
 
 
 
-\### 📌 1. Recency is the strongest churn driver
+\###  1. Recency is the strongest churn driver
 
 Customers with longer inactivity periods have significantly higher churn probability.
 
 
 
-\### 📌 2. Behavioral instability predicts churn
+\###  2. Behavioral instability predicts churn
 
 High volatility in purchase intervals increases churn risk.
 
 
 
-\### 📌 3. High-value customers are more stable
+\###  3. High-value customers are more stable
 
 Higher monetary value reduces churn probability.
 
 
 
-\### 📌 4. Probability-only targeting can destroy ROI
+\###  4. Probability-only targeting can destroy ROI
 
 Targeting top churn-probability customers captured only ~2% of total revenue and resulted in negative ROI.
 
 
 
-\### 📌 5. Revenue-weighted targeting improves ROI dramatically
+\###  5. Revenue-weighted targeting improves ROI dramatically
 
 
 
@@ -361,7 +361,7 @@ This structure follows modular ML engineering best practices:
 
 
 
-\## 💡 Why This Project Stands Out
+\##  Why This Project Stands Out
 
 
 
@@ -395,7 +395,7 @@ It demonstrates both \*\*technical depth and strategic thinking\*\*.
 
 
 
-\## 👤 Author
+\##  Author
 
 
 
@@ -404,4 +404,5 @@ It demonstrates both \*\*technical depth and strategic thinking\*\*.
 MBA (Marketing) | Data Science (IIT Madras)  
 
 Transitioning into Data Analytics \& Machine Learning
+
 
